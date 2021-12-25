@@ -1,0 +1,20 @@
+.login-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Login {
+    padding: 60px 0;
+    
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+ 
+  }
+  .card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
