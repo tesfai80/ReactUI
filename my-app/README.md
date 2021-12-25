@@ -1,3 +1,7 @@
+#BACKEND (Web Api) technology is asp.net core 3.1 with c#
+-code first approch using entity framework and sql server
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
